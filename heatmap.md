@@ -8,7 +8,7 @@ Heatmap เป็นเครื่องมือที่ช่วยให้
 
 ## HeatMap สาขาใหญ่
 
-<figure><img src=".gitbook/assets/Untitled (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Untitled (5).png" alt=""><figcaption></figcaption></figure>
 
 จะมี HeatMap ทั้งหมด 8 ตัวซึ่งกระจายครอบคลุมทั่วสาขาตามจุดต่างๆ ดังนี้
 
@@ -23,7 +23,7 @@ Heatmap เป็นเครื่องมือที่ช่วยให้
 
 ## HeatMap สาขายย่อย
 
-<figure><img src=".gitbook/assets/Untitled (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Untitled (7).png" alt=""><figcaption></figcaption></figure>
 
 จะมี HeatMap ทั้งหมด 4 ตัวซึ่งกระจายครอบคลุมทั่วสาขาตามจุดต่างๆ ดังนี้
 
