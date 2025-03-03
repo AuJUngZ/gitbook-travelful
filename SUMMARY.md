@@ -41,3 +41,4 @@
 ***
 
 * [Datacenter Design](datacenter-design.md)
+* [HeatMap](heatmap.md)
