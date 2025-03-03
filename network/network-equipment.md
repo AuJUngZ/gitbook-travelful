@@ -4,7 +4,7 @@
 
 ## Huawei NetEngine 8000 F1A (Provider Edge Router)
 
-<figure><img src="../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (4).png" alt=""><figcaption></figcaption></figure>
 
 **Forwarding performance:** 453Mpps
 
@@ -52,7 +52,7 @@
 
 ## **Huawei ekitEngine S220-48T4X** **(Access Switch)**
 
-<figure><img src="../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Forwarding performance:** 131 Mpps
 
@@ -100,7 +100,7 @@ support WEP, WPA/WPA2-PSK, WPA3-SAE, WPA/WPA2-PPSK,WPA/WPA2/WPA3-802.1x, and WAP
 
 ## **Huawei AC6805 (WLAN Controller)**
 
-<figure><img src="../.gitbook/assets/Untitled (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Direct Forwarding:** 120 Gbit/s
 
