@@ -4,13 +4,13 @@
 
 * การสร้างแผนการท่องเที่ยวครั้งแรก: เมื่อผู้ใช้งานทำการสร้างแผนครั้งแรก เซอร์วิสหลังบ้านจะทำการสร้างแผนการท่องเที่ยวโดยอ้างอิงข้อมูลจากสถานที่ที่ผู้ใช้งานใส่ และสถานที่ที่มาจากลิงก์ที่ผู้ใช้ใส่
 
-<table data-header-hidden data-full-width="false"><thead><tr><th width="356"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/Untitled.png" alt=""></td><td><img src="../../.gitbook/assets/Untitled (1).png" alt=""></td></tr></tbody></table>
+<table data-header-hidden data-full-width="false"><thead><tr><th width="356"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/Untitled (2).png" alt=""></td><td><img src="../../.gitbook/assets/Untitled (1) (1).png" alt=""></td></tr></tbody></table>
 
 
 
 * การเปลี่ยนแปลงแผนการท่องเที่ยวโดยผู้ใช้งาน: เมื่อผู้ใช้งานเปลี่ยนแปลงแผนการท่องเที่ยวถึง 5 ครั้ง เซอร์วิสในทางหลังบ้านจะทำการจัดการแผนการท่องเที่ยวใหม่ด้วยข้อมูลแผนการท่องเที่ยวปัจจุบัน เพื่อนำไปแนะนำให้กับผู้ใช้
 
-<table data-header-hidden data-full-width="false"><thead><tr><th width="356"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/Untitled (2).png" alt="" data-size="original"></td><td><img src="../../.gitbook/assets/Untitled (3).png" alt="" data-size="original"></td></tr></tbody></table>
+<table data-header-hidden data-full-width="false"><thead><tr><th width="356"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/Untitled (2) (1).png" alt="" data-size="original"></td><td><img src="../../.gitbook/assets/Untitled (3).png" alt="" data-size="original"></td></tr></tbody></table>
 
 โดยขั้นตอนของการวางแผนการท่องเที่ยวแบบอันโนมัติจะเป็นดังนี้
 

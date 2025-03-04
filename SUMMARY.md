@@ -6,6 +6,7 @@
 
 * [การออกแบบฐานข้อมูล (Database)](software/database.md)
 * [Backend](software/backend/README.md)
+  * [การให้คะแนนสถานที่ด้วยโมเดล Location Score Evaluation with ML](software/backend/location-score-evaluation-with-ml.md)
   * [การวางแผนการท่องเที่ยวแบบอันโนมัติ Automatic Travel Plan Arrangement](software/backend/automatic-travel-plan-arrangement.md)
 
 ## System & DevOps
