@@ -8,7 +8,7 @@ description: >-
 
 1. สำนักงานใหญ่
 
-<figure><img src="../.gitbook/assets/Travelful+ #2614924.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Travelful+ #2614924 (1).png" alt=""><figcaption></figcaption></figure>
 
 ในสำนักงานใหญ่จะรองรับทั้งหมด 90 คนโดยแบ่งกลุ่มของพนักงานและผู้ใช้งานดังนี้
 
@@ -16,7 +16,7 @@ description: >-
 
 2. สาขาย่อยที่ 1
 
-<figure><img src="../.gitbook/assets/Travelful+ #2614924 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Travelful+ #2614924 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 หลักการออกแบบสาขาย่อยจะมีการออกแบบให้คล้ายกับสาขาใหญ่มากที่สุดเพื่อคงฟังก์ชันและสิ่งอำนวยความสะดวกให้กับพนักงาน โดยสาขาย่อยรองรับทั้งหมด 60 คนดังนี้
 

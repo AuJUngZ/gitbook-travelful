@@ -6,15 +6,16 @@
 
 * [The Problem](overview/the-problem.md)
 * [Our Solution](overview/our-solution.md)
+* [Target Group](overview/target-group.md)
 
 ## Software
 
 * [การออกแบบฐานข้อมูล (Database)](software/database.md)
-* [Backend](software/backend/README.md)
-  * [การให้คะแนนสถานที่ด้วยโมเดล Location Score Evaluation with ML](software/backend/location-score-evaluation-with-ml.md)
-  * [การวางแผนการท่องเที่ยวแบบอัตโนมัติ Automatic Travel Plan Arrangement](software/backend/automatic-travel-plan-arrangement.md)
-  * [การขยายประเภทไสตล์การท่องเที่ยวจากที่ผู้ใช้กำหนด Expanding User-Defined Travel Style Categories](software/backend/expanding-user-defined-travel-style-categories.md)
-  * [ประเมินการใช้งานทรัพยากรระบบ System Resource Usage Assessment](software/backend/system-resource-usage-assessment.md)
+* [Algorithm](software/algorithm/README.md)
+  * [การให้คะแนนสถานที่ด้วยโมเดล Location Score Evaluation with ML](software/algorithm/location-score-evaluation-with-ml.md)
+  * [การวางแผนการท่องเที่ยวแบบอัตโนมัติ Automatic Travel Plan Arrangement](software/algorithm/automatic-travel-plan-arrangement.md)
+  * [การขยายประเภทไสตล์การท่องเที่ยวจากที่ผู้ใช้กำหนด Expanding User-Defined Travel Style Categories](software/algorithm/expanding-user-defined-travel-style-categories.md)
+  * [ประเมินการใช้งานทรัพยากรระบบ System Resource Usage Assessment](software/algorithm/system-resource-usage-assessment.md)
 
 ## System & DevOps
 
