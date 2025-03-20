@@ -10,6 +10,8 @@
 
 ## Software
 
+* [UX/UI](software/ux-ui/README.md)
+  * [Design System](software/ux-ui/design-system.md)
 * [วิธีการสร้างแผนแบบอัตโนมัติ (Algorithm)](software/algorithm/README.md)
   * [การให้คะแนนสถานที่ด้วยโมเดล (Location Score Evaluation with ML)](software/algorithm/location-score-evaluation-with-ml.md)
   * [การวางแผนการท่องเที่ยวแบบอัตโนมัติ (Automatic Travel Plan Arrangement)](software/algorithm/automatic-travel-plan-arrangement.md)
