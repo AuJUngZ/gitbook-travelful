@@ -2,7 +2,7 @@
 
 ## Initial Project <a href="#initial-project" id="initial-project"></a>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 จากแผนภาพข้างบนการ initial project จะมีการสร้างอยู่ด้วยกันทั้หมด 2 ส่วนคือ
 
@@ -13,7 +13,7 @@
 
 * สร้าง Jobs สำหรับ Request, Provisioning, Destroy Infra สำหรับ Cloud ต่าง ๆ ไม่ว่าจะเป็น Azure , AWS , etc.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 * สร้าง Job สำหรับ Build Repository ต่าง ๆ เพื่อให้ได้มาซึ่ง Image ที่จะใช้ในการ Deploy ทั้ง Microservices and Frontend
 * สร้าง Jobs สำหรับ Deploy ในแต่ละ Environment ของแต่ละ Repository
@@ -54,7 +54,7 @@ Travelful+/
 
 ## Initial Repository Pipeline <a href="#initial-repository-pipeline" id="initial-repository-pipeline"></a>
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 จากภาพข้างต้น ตอนที่มีการสร้าง Repository ใน Sub-Project ที่ต้องการนั้นจะมีการสร้าง Stages ให้ตามที่เห็นในภาพ โดยแต่ละ stages จะมีความหมายดังนี้
 

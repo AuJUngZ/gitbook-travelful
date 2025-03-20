@@ -1,6 +1,6 @@
 # System Diagram
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>system Diagram</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>system Diagram</p></figcaption></figure>
 
 ## ภาพรวมของระบบ (Overview)
 

@@ -1,6 +1,6 @@
 # หลักการทำงาน Pipeline Deploy
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Deployment state</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Deployment state</p></figcaption></figure>
 
 * การเริ่มต้นการ deploy ในทุก ๆ version จะต้องผ่าน State Build ก่อนเนื่องจากหากไม่ผ่าน State Dev ใน State ต่อ ๆ ไปจะไม่มีการ Build โปรเจคใดทั้งสิ้น นั้นหมายความว่า State Build คือ State ที่จะใช้สร้าง Image ที่จะต้องใช้ Deploy ใน State อื่น ๆ
 * เช่น หาก Developer จะลองทำการ Deploy Code Version ล่าสุดที่ Dev Environment ผู้ที่ได้รับหน้าที่ในการ Deploy จะต้องนำ Code Version นั้น ๆ มา Build Image ใน Pipeline Build เพื่อสร้าง Image ก่อนการ Deploy
