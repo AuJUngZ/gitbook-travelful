@@ -9,3 +9,4 @@
 * **การสร้าง Prototype ได้ทันที**: สามารถทำให้ UI มีการโต้ตอบ (Interactive) ได้ โดยไม่ต้องใช้โค้ด
 * **สะดวกในการส่งต่อให้ Developer**: นักพัฒนาสามารถตรวจสอบรายละเอียดของ UI ได้ง่ายผ่าน Figma โดยไม่ต้องรอไฟล์แยก
 
+{% embed url="https://www.figma.com/proto/gdPYXr57oidUHl1kAlx6VP/TravelFul-(405)?content-scaling=fixed&node-id=2964-8927&page-id=413:5326&scaling=scale-down&show-proto-sidebar=0&starting-point-node-id=2964:8927&t=PjbR9eAV0zPlJ3vB-1" %}
