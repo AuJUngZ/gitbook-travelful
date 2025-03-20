@@ -17,8 +17,9 @@
   * [การให้คะแนนสถานที่ด้วยโมเดล (Location Score Evaluation with ML)](software/algorithm/location-score-evaluation-with-ml.md)
   * [การวางแผนการท่องเที่ยวแบบอัตโนมัติ (Automatic Travel Plan Arrangement)](software/algorithm/automatic-travel-plan-arrangement.md)
   * [การขยายประเภทไสตล์การท่องเที่ยวจากที่ผู้ใช้กำหนด (Expanding User-Defined Travel Style Categories)](software/algorithm/expanding-user-defined-travel-style-categories.md)
-* [การออกแบบฐานข้อมูล (Database)](software/database.md)
 * [การประยุกต์ใช้ ML (Machine Learning)](software/ml-machine-learning.md)
+* [โครงสร้างซอฟต์แวร์ (Software Architecture)](software/software-architecture.md)
+* [การออกแบบฐานข้อมูล (Database)](software/database.md)
 * [ประเมินการใช้งานทรัพยากรระบบ (System Resource Usage Assessment)](software/system-resource-usage-assessment.md)
 
 ## System & DevOps
