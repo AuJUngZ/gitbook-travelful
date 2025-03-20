@@ -22,9 +22,9 @@
 
 ## System & DevOps
 
-* [\[System\] System Design](system-and-devops/system-system-design/README.md)
-  * [แนวคิดและวิธีการออกแบบ System Architecture On Cloud](system-and-devops/system-system-design/system-architecture-on-cloud/README.md)
-    * [System Diagram](system-and-devops/system-system-design/system-architecture-on-cloud/system-diagram.md)
+* [System Design](system-and-devops/system-design/README.md)
+  * [แนวคิดและวิธีการออกแบบ System Architecture On Cloud](system-and-devops/system-design/system-architecture-on-cloud/README.md)
+    * [System Diagram](system-and-devops/system-design/system-architecture-on-cloud/system-diagram.md)
 * [ความสำคัญของ DevOps ในการพัฒนา Software ยุคปัจจุบัน](system-and-devops/devops-software/README.md)
   * [\[DevOps\] Infra Provisioning Pipeline](system-and-devops/devops-software/devops-infra-provisioning-pipeline.md)
   * [\[DevOps\] Initial Pipeline Overview](system-and-devops/devops-software/devops-initial-pipeline-overview/README.md)
