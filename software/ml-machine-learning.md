@@ -1,10 +1,10 @@
 # การประยุกต์ใช้ ML (Machine Learning)
 
-<figure><img src="../.gitbook/assets/Travelful+ #261492final.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Travelful+ #261492final (7).png" alt=""><figcaption></figcaption></figure>
 
 ในโปรเจคนี้เรามีการใช้ AI ในการ Classification review แต่ละ review ว่ามีการพูดถึงไลฟ์สไตล์ใดบ้างเป็นส่วนใหญ่ เช่น สายกิน, สาย shop, มรดกและวัฒนธรรม, ถ่ายรูป, ชมวิว, ทะเล, Adventure ฯลฯ เพื่อเป็นหนึ่งในข้อมูลที่ช่วยให้ Algorithm ที่ใช้ในการสร้างแผนอัตโนมัติ สามารถตัดสินใจเลือกสถานที่ที่จะเข้าไปอยู่ในแผนได้เหมาะสมขึ้น โดยการพัฒนาจะมีการใช้ FacebookAI/xlm-roberta-base ในการช่วง embed review ในอยู่ในรูปของตัวเลขเพื่อให้สามารถใช้ Neural Network ในการทำ Classification ได้แม่นยำขึ้น
 
-<figure><img src="../.gitbook/assets/Travelful+ #261492final (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Travelful+ #261492final (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 โดย dataset ที่ใช้ในการพัฒนาเป็น dataset ที่ทางกลุ่มได้ร่วมกันสร้างขึ้นมาใหม่ซึ่ง 1 ชุดข้อมูลจะประกอบไปด้วย (review, type (lifestyle), rating) โดยข้อมูลที่ใช้ train จะใช้เพียงแค่ review กับ type เท่านั้น โดยที่ review เป็น input และ type เป็น output
 
@@ -17,3 +17,5 @@
 | Test     | 28                | 0.679            |
 
 จากผลลัพธ์จะสังเกตได้ว่า model เกินการ overfit โดยเหตุผลที่ได้อาจจะเนื่องมาจากการจัดทำ dataset ที่ผิดพลาด โดยคำตอบที่ model ตอบผิดส่วนมากจะเป็นการทำนายผลลัพธ์ของไลฟ์สไตล์สายถ่ายรูป และมรดกวัฒนธรรม เนื่องจาก 2 classes ดังกล่าวมีเนื้อหาของรีวิวที่ค่อนข้างคล้ายคลึงกัน เพราะฉะนั้นในส่วนของการพัฒนาต่อยอดควรจะทำเป็น model ที่สามารถทำ multi classification ได้เนื่องจากใน 1 review อาจจะมีการรีวิวที่เกี่ยวข้อกับหลายไลฟ์สไตล์ในเวลาเดียวกัน
+
+<figure><img src="../.gitbook/assets/Travelful+ #261492final (3).png" alt=""><figcaption><p>ผลการทดลองใช้ Model ในการคำนวณคะแนนสถานที่เพื่อให้ Algorithm เลือกสถานที่ที่เหมาะสมในการจัดตารางการเที่ยว</p></figcaption></figure>
